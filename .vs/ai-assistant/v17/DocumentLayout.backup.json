@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bgome\\source\\repos\\ai-assistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E074CD-1D60-4E7E-9DAD-3123C2AFD76A}|ai-assistant\\ai-assistant.csproj|c:\\users\\bgome\\source\\repos\\ai-assistant\\ai-assistant\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E074CD-1D60-4E7E-9DAD-3123C2AFD76A}|ai-assistant\\ai-assistant.csproj|solutionrelative:ai-assistant\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1821,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\bgome\\source\\repos\\ai-assistant\\ai-assistant\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ai-assistant\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\bgome\\source\\repos\\ai-assistant\\ai-assistant\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ai-assistant\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T13:49:22.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
