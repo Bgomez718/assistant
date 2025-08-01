@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ai-assisstant.styles.css",
+      "PackagePath": "staticwebassets\\ai-assisstant.styles.css"
+    },
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Projects\\ai-assisstant\\ai-assisstant\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.ai-assisstant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.ai-assisstant.props",
+      "PackagePath": "build\\ai-assisstant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.ai-assisstant.props",
+      "PackagePath": "buildMultiTargeting\\ai-assisstant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.ai-assisstant.props",
+      "PackagePath": "buildTransitive\\ai-assisstant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
